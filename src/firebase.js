@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBrmM-bv5Vr6W9V1TKqQiXslEghlHR6xiU",
+  apiKey: "  "
   authDomain: "jobtrackerapp-ak7.firebaseapp.com",
   projectId: "jobtrackerapp-ak7",
   storageBucket: "jobtrackerapp-ak7.appspot.com",
